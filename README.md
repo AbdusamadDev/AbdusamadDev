@@ -9,14 +9,13 @@
 <ul>
   <li><strong>Python</strong> 🐍</li>
   <li><strong>Web Frameworks</strong> 🌐: Django, Flask</li>
-  <li><strong>Databases</strong> 🗄️: PostgreSQL, MySQL, SQLite</li>
-  <li><strong>RESTful APIs</strong> 🌐: Django REST Framework</li>
+  <li><strong>Databases</strong> 🗄️: PostgreSQL, MySQL, SQLite, OracleDB</li>
+  <li><strong>RESTful APIs</strong> 🌐: Django REST Framework, FastAPI</li>
   <li><strong>Authentication & Authorization</strong> 🔒: OAuth, JWT, bcrypt</li>
   <li><strong>Testing</strong> 🧪: Unit Testing, Test-driven Development (TDD)</li>
   <li><strong>Version Control</strong> 🗃️: Git, GitHub</li>
-  <li><strong>Deployment</strong> 🚀: Docker, AWS, Heroku</li>
+  <li><strong>Deployment</strong> 🚀: AWS, Heroku, SSH, Custom Server Hosting</li>
   <li><strong>Frontend Skills</strong> 🎨: HTML, CSS</li>
-  <li><strong>FastAPI Development</strong> ⚡️</li>
 </ul>
 
 <h2>Featured Projects 🌟</h2>

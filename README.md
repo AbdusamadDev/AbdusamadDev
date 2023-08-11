@@ -39,8 +39,8 @@
 <h2>Let's Connect 🤝</h2>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>: Connect with me on LinkedIn and let's network!</li>
-  <li><a href="https://twitter.com/yourhandle">Twitter</a>: Follow me on Twitter for the latest updates and insights.</li>
+  <li><a href="https://t.me/legion5565">Telegram</a>: Connect me on Telegram</li>
+  <li><a href="https://www.linkedin.com/in/abdusamad-abdullakhanov-3302b823a/">LinkedIn</a>: Connect with me on Telegram and let's network!</li>
 </ul>
 
 <p>Feel free to reach out, whether it's for collaboration, job opportunities, or just to have a friendly chat. I'm always excited to connect with fellow developers and tech enthusiasts! 😄</p>

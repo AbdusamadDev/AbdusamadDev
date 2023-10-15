@@ -23,7 +23,6 @@
 <ul>
   <li><a href="https://github.com/AbdusamadDev/BlogApp.git">Blog App</a>: A mind-blowing and simplified project just like YouTube</li>
   <li><a href="https://github.com/AbdusamadDev/FaceDetectionAI.git">Face Detector AI</a>: Software Product which works with data science and web development</li>
-  <li>And also there are a few more projects you should check them out.<li/>
 </ul>
 
 <h2>Learning Journey 📚</h2>

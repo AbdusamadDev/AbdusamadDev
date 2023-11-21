@@ -3,7 +3,7 @@
 <h2>About Me 🚀</h2>
 
 <p>I'm a passionate and experienced middle backend developer with a love for Python and building robust web applications. I enjoy working on challenging projects that push the boundaries of what's possible. Let's collaborate and create something awesome!</p>
-
+ 
 <h2>Skills 🛠️</h2>  
 
 <ul>

@@ -12,7 +12,7 @@
   <li><strong>Databases</strong> 🗄️: PostgreSQL, MySQL, SQLite, OracleDB</li> 
   <li><strong>RESTful APIs</strong> 🌐: Django REST Framework, FastAPI</li>
   <li><strong>Authentication & Authorization</strong> 🔒: OAuth, JWT, bcrypt</li>
-  <li><strong>Testing</strong> 🧪: Unit Testing, Test-driven Development (TDD)</li>
+  <li><strong>Testing</strong> 🧪: Unit Testing, Test-driven Development (TDD)</li> 
   <li><strong>Version Control</strong> 🗃️: Git, GitHub</li>
   <li><strong>Deployment</strong> 🚀: AWS, Heroku, SSH, Custom Server Hosting</li>
   <li><strong>Frontend Skills</strong> 🎨: HTML, CSS</li>

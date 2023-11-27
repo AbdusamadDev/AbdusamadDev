@@ -6,7 +6,7 @@
  
 <h2>Skills 🛠️</h2>  
  
-<ul>
+<ul> 
   <li><strong>Python</strong> 🐍</li>  
   <li><strong>Web Frameworks</strong> 🌐:  Django, Flask, http.server</li>
   <li><strong>Databases</strong> 🗄️: PostgreSQL, MySQL, SQLite, OracleDB</li> 

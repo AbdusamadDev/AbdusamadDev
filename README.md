@@ -7,7 +7,7 @@
 <h2>Skills 🛠️</h2>  
  
 <ul> 
-  <li><strong>Python</strong> 🐍</li>  
+  <li><strong>Python</strong> 🐍</li>   
   <li><strong>Web Frameworks</strong> 🌐:  Django, Flask, http.server</li>
   <li><strong>Databases</strong> 🗄️: PostgreSQL, MySQL, SQLite, OracleDB</li> 
   <li><strong>RESTful APIs</strong> 🌐: Django REST Framework, FastAPI</li>

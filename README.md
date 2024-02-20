@@ -1,64 +1,32 @@
-<h1>Welcome to my GitHub Profile! 👋</h1>
- 
-<h2>About Me 🚀</h2>
+<h1 align="center">Hi 👋, I'm Abdusamad</h1>
+<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 
-<p>I'm a passionate and experienced middle backend developer with a love for Python and building robust web applications. I enjoy working on challenging projects that push the boundaries of what's possible. Let's collaborate and create something awesome!</p>
- 
-<h2>Skills 🛠️</h2>   
-  
-<ul> 
-  <li><strong>Python</strong> 🐍</li>   
-  <li><strong>Web Frameworks</strong> 🌐:  Django, Flask, http.server</li>
-  <li><strong>Databases</strong> 🗄️: PostgreSQL, MySQL, SQLite, OracleDB</li> 
-  <li><strong>RESTful APIs</strong> 🌐: Django REST Framework, FastAPI</li>
-  <li><strong>Authentication & Authorization</strong> 🔒: OAuth, JWT, bcrypt</li> 
-  <li><strong>Testing</strong> 🧪: Unit Testing, Test-driven Development (TDD)</li> 
-  <li><strong>Version Control</strong> 🗃️: Git, GitHub</li>
-  <li><strong>Deployment</strong> 🚀: AWS, Heroku, SSH, Custom Server Hosting</li>
-  <li><strong>Frontend Skills</strong> 🎨: HTML, CSS</li>
-</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdusamaddev&label=Profile%20views&color=0e75b6&style=flat" alt="abdusamaddev" /> </p>
 
-<h2>Featured Projects 🌟</h2>
+- 🔭 I’m currently working on [Real-time Chat Application](https://github.com/AbdusamadDev/ChatApplication.git)
 
-<ul>
-  <li><a href="https://github.com/AbdusamadDev/BlogApp.git">Blog App</a>: A mind-blowing and simplified project just like YouTube</li>
-  <li><a href="https://github.com/AbdusamadDev/FaceDetectionAI.git">Face Detector AI</a>: Software Product which works with data science and web development</li>
-</ul>
+- 🌱 I’m currently learning **Blockchain, WebSocket programming, Cybersecurity, Frontend Development**
 
-<h2>Learning Journey 📚</h2>
+- 👯 I’m looking to collaborate on [Real-time Chat Application](https://github.com/AbdusamadDev/ChatApplication.git)
 
-<p>I'm on a continuous learning journey to stay ahead in the ever-evolving world of backend development. Here's what I'm currently exploring:</p>
+- 👨‍💻 All of my projects are available at [https://github.com/AbdusamadDev](https://github.com/AbdusamadDev)
 
-<ul>
-  <li>🚀 Microservices Architecture: Delving into building scalable and decoupled systems using technologies like Docker and Kubernetes.</li>
-  <li>🗄️ Advanced Database Management: Mastering advanced techniques for efficient database management and optimization.</li>
-  <li>☁️ Cloud Computing: Expanding my knowledge of cloud platforms such as AWS and Azure for robust and scalable deployments.</li>
-</ul>
+- 💬 Ask me about **Django, FastAPI, PostgreSQL, Computer Vision and ML**
 
-<h2>Let's Connect 🤝</h2>
+- 📫 How to reach me **pythondeveloper441@gmail.com**
 
-<ul>
-  <li><a href="https://t.me/legion5565">Telegram</a>: Connect me on Telegram</li>
-  <li><a href="https://www.linkedin.com/in/abdusamad-abdullakhanov-3302b823a/">LinkedIn</a>: Connect with me on Telegram and let's network!</li>
-</ul>
+- 📄 Know about my experiences [https://drive.google.com/file/d/11XIjqhTS0psozINRj2Gb62Tk986FZ84h/view?usp=sharing](https://drive.google.com/file/d/11XIjqhTS0psozINRj2Gb62Tk986FZ84h/view?usp=sharing)
 
-<p>Feel free to reach out, whether it's for collaboration, job opportunities, or just to have a friendly chat. I'm always excited to connect with fellow developers and tech enthusiasts! 😄</p>
+- ⚡ Fun fact **Even though I don't have a senior level, I can develop projects with AI generative tools just like Senior developers.**
 
-<h2>Goals 🎯</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/legion__2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="legion__2005" height="30" width="40" /></a>
+</p>
 
-<ul>
-  <li>Leveling Up: Becoming a top-notch backend developer with a deep understanding of software architecture and design patterns.</li>
-  <li>Sharing Knowledge: Mentoring and supporting junior developers to help them grow in their careers.</li>
-  <li>Contributing to Open Source: Giving back to the community by contributing to open-source projects that make a positive impact.</li>
-</ul>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h2>Contact Me 📫</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdusamaddev&show_icons=true&locale=en&layout=compact" alt="abdusamaddev" /></p>
 
-<ul>
-  <li>Email: abdusamaddev571@gmail.com</li>
-  <li>Phone: +998 (94) 005-55-65</li>
-</ul>
-
-<p>Feel free to contact me via email or phone. Let's explore opportunities together and make something amazing happen!</p>
-
-<p>Thanks for visiting my profile. Stay awesome! ✨</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdusamaddev&show_icons=true&locale=en" alt="abdusamaddev" /></p>

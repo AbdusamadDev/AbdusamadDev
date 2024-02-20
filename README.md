@@ -22,8 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/legion__2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="legion__2005" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdusamad-abdullakhanov-3302b823a/" target="blank"><img align="center" src="https://www.bing.com/ck/a?!&&p=1d48c6bafcd8297eJmltdHM9MTcwODM4NzIwMCZpZ3VpZD0wZTM3Y2Q2Ny1lODYyLTYyNDMtMzcyZC1kOTdkZTkzNTYzMDEmaW5zaWQ9NTU2MA&ptn=3&ver=2&hsh=3&fclid=0e37cd67-e862-6243-372d-d97de9356301&u=a1L2ltYWdlcy9zZWFyY2g_cT1saW5rZWRpbiBzdmcgaW1hZ2UmRk9STT1JUUZSQkEmaWQ9N0VDRkREMkVEQkNEMjA4MkE4ODJGMjkyMTgxREFDODAwQjNCNzE2Qw&ntb=1" alt="abdusamad" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
